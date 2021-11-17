@@ -1,0 +1,142 @@
+body {
+	color: #f8fafc;
+	background-color: #272c30;
+}
+
+#content {
+	color: #f8fafc;
+	background-color: #353c42;
+}
+
+.navbar {
+	color: #f8fafc;
+	background-color: #272c30;
+	border-bottom: 1px solid #505962;
+}
+
+.sidebar {
+	background-color: #272c30;
+	border-right: 1px solid #505962;
+}
+
+.card {
+	background-color: #272c30;
+	border: 1px solid #505962
+}
+
+.card-header {
+	background-color: #272c30;
+	border-bottom: 1px solid #505962;
+}
+
+.card-footer {
+	background-color: #272c30;
+	border-top: 1px solid #505962;
+}
+
+.breadcrumb {
+	background-color: #272c30;
+}
+
+footer {
+	background-color: #272c30;
+	border-top: 1px solid #505962;
+}
+
+.list-group-item {
+	background-color: #353c42;
+	border: 1px solid #505962;
+}
+.dropdown-menu {
+	color: #f8fafc;
+	background-color: #343a40;
+	border: 1px solid #505962;
+}
+.dropdown-item {
+	color: #f8fafc;
+	background-color: #343a40;
+}
+
+.form-control {
+	color: #f8fafc;
+	background-color: #343a40;
+	border: 1px solid #505962;
+}
+
+.form-control:focus{
+	color:#f8fafc;
+	background-color:#343a40;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #343a40;
+}
+
+.modal-content {
+	color: #f8fafc;
+	background-color: #343a40;
+
+}
+
+.table thead th {
+    border-bottom: 2px solid #505962;
+}
+
+.table td, .table th {
+    border-top: 1px solid #505962;
+}
+
+.table-bordered td, .table-bordered th {
+	border: 1px solid #505962;
+}
+
+.table-bordered {
+    border: 1px solid #505962;
+}
+
+hr {
+	border: 1px solid #505962;
+}
+
+.popover {
+	color:#f8fafc;
+	background-color:#343a40;
+}
+
+.popover-header {
+	border-bottom: 1px solid #505962;
+	background-color:#343a40;
+}
+
+.sidebar .nav-item .collapse .collapse-inner .collapse-item.active, .sidebar .nav-item .collapsing .collapse-inner .collapse-item.active {
+    color: #f8fafc;
+}
+
+.sidebar .nav-item .collapse .collapse-inner .collapse-item, .sidebar .nav-item .collapsing .collapse-inner .collapse-item {
+    color: #C6C8C9;
+	margin: 0;
+	white-space: normal;
+}
+
+.select2-container--default .select2-selection--multiple {
+    background-color: #343a40;
+    border: 1px solid #505962;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #272c30;
+    border: 1px solid #505962;
+}
+
+.select2-dropdown {
+	background-color: #272c30;
+    border: 1px solid #505962;
+}
+
+.select2-container--default .select2-results__option--selected {
+    background-color: #505962;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    border-right: 1px solid #505962;
+}

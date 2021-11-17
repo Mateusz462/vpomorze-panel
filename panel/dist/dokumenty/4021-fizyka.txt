@@ -1,0 +1,9 @@
+zad 1. A.
+zad 2. A.
+zad 3. D.
+zad 4. B.
+zad 5. A, C.
+zad 6. 1. P 2.F 3. F
+zad 7. Jeśli pole pochodzi od kilku ciał punktowych lub kulistych, których rozmieszczenie znamy, to zastosujemy zasadę super pozycji natężeń pól, zgodnie z którą natężenie pola wypadkowego w danym punkcie jest sumą wektorową natężeń pól pochodzących od każdego z nich
+zad 8. Sia nacisku jest tym większa od siy grawitacji, im większe jest przyspieszenie rakiety. Jesli fotel działa na kosmonautę siła Fn, to kosmonauta działa na fotel siłą Fprimn, większą co do wartosci niż sila grawitacji Fg. Skutkami przeciążenia może być utrata zdolnosci widzenia, utrata przytomności, bóle głowy.
+zad 9. Potencjaem pola grawitacyjnego w danym punkcie nazywamy iloraz energii potencjalnej, jaką ma w tym punkcie umieszczone tam ciało próbne, i masy tego ciała. V=Ep/m Jednostka 1J/kg = 1 m2/s2

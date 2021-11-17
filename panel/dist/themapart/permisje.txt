@@ -1,0 +1,37 @@
+dyspozytor grafik, wnioski o kzw, woz
+nadzor ruchu grafik, wnioski o rezerwe
+kadry wnioski o prace, pracownikow
+zarzád administrator dyrektor
+sekretarz pisanie postów na stronie
+kierowca
+kierowca zaufany
+praktykant
+
+
+//widok podstawowy
+oglądanie grafiku
+oglądanie raportow
+oglądanie pobieralni
+oglądanie wniosków
+oglądanie zgłoszen
+
+//dodatkowy wyglad
+ogladanie pobieralni +
+widok dla zarzadu w liscie
+
+
+//widok zarzadu
+zarzadzanie grafikiem
+zarzadzanie raportami
+zarzadzanie pobieralnia
+zarzadzanie wnioskami
+zarzadzanie wnioskami o prace
+zarzadzanie zgłoszeniami
+zarzadzanie taborem(dodawanie pojazdow, edycja pojazdow, nadawanie wlascicieli)
+zarzadanie rangami(dodawanie rang i nadawanie permisji)
+pisanie postow na stronie
+pisanie ogloszen w panelu
+
+zarzadzanie stroną (pisanie postow, dodawanie podstron)
+nadawanie rang urzytkownikom 
+zarzadzanie uzytkownikiem (zmiana hasla, kody, punkty, kilometry etc)
